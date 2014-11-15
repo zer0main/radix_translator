@@ -18,11 +18,9 @@ void fact_trans(lint n) {
         i++;
     }
     i--;
-    lint x = 0;
     while (i != 0) {
         std::cout << aaa[n / fact(i)];
         n = n % fact(i);
-        x++;
         i--;
     }
 }   
