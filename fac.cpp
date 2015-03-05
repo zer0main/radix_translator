@@ -23,7 +23,7 @@ void fact_trans(lint n) {
         n = n % fact(i);
         i--;
     }
-}   
+}
 
 int main() {
     lint a;
