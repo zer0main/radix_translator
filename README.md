@@ -1,4 +1,5 @@
 radix_translator
 ================
 
-Convert numbers between various radixes
+Convert numbers from the factorial to decimal numeral
+systems and back.
